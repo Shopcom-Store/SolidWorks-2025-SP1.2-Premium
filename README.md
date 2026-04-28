@@ -36,8 +36,8 @@ Generative Design: Fixes issues with design space definition and manufacturing c
 
 Manufacturing & Ecosystem Cohesion:
 
-    SOLIDWORKS CAM Professional: Resolves toolpath calculation errors and post-processor faults introduced with the new machine learning-enhanced strategies.
+SOLIDWORKS CAM Professional: Resolves toolpath calculation errors and post-processor faults introduced with the new machine learning-enhanced strategies.
 
-    Bundled Applications: Corresponding updates for Electrical, Plastics, Visualize, and Composer fix integration points and stability bugs, ensuring the entire Premium suite works cohesively.
+Bundled Applications: Corresponding updates for Electrical, Plastics, Visualize, and Composer fix integration points and stability bugs, ensuring the entire Premium suite works cohesively.
 
 Summary: SolidWorks 2025 SP1.2 Premium is a critical stabilization update that transforms the innovative but nascent SP1.0 release into a viable platform for professional engineering. It maintains all the forward-looking 2025 advancements—AI assistance, cloud-native data management, next-gen performance, and advanced Sub-D modeling—while applying necessary corrections for reliability. This version is recommended for teams ready to adopt the 2025 paradigm but who require the confidence that comes with a patched and production-hardened software environment.
