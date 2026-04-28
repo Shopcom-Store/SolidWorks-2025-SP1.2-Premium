@@ -16,23 +16,23 @@ Core Stability & Performance Fixes: SP1.2 addresses critical issues reported by 
 
 Refined User Experience & Workflow:
 
-    Corrected Modern UX: Patches issues with the updated iconography, property manager panels, and dark/light theme switching to ensure a consistent and reliable interface.
+Corrected Modern UX: Patches issues with the updated iconography, property manager panels, and dark/light theme switching to ensure a consistent and reliable interface.
 
-    Enhanced 3D Sculpting (Sub-D): Resolves problems with surface conversion, feature history stability, and filleting within the new Sub-D modeling environment, improving its usability for complex shape design.
+Enhanced 3D Sculpting (Sub-D): Resolves problems with surface conversion, feature history stability, and filleting within the new Sub-D modeling environment, improving its usability for complex shape design.
 
-    AI Tool Reliability: The new AI-powered Design Assistant and drawing automation features receive stability updates and logic refinements to increase the accuracy and predictability of their suggestions.
+AI Tool Reliability: The new AI-powered Design Assistant and drawing automation features receive stability updates and logic refinements to increase the accuracy and predictability of their suggestions.
 
 Cloud Collaboration & Data Integrity (3DEXPERIENCE Platform):
 
-    Strengthened Platform Link: Critical fixes for the Collaborative Business Innovator role connection resolve data sync failures, version conflicts, and login instability. Performance for uploading/downloading large assemblies to the cloud is improved.
+Strengthened Platform Link: Critical fixes for the Collaborative Business Innovator role connection resolve data sync failures, version conflicts, and login instability. Performance for uploading/downloading large assemblies to the cloud is improved.
 
-    Lifecycle & Workflow: Patches for the new single-source-of-truth data model ensure reliable check-in/check-out, revision creation, and transition between lifecycle states directly from SolidWorks.
+Lifecycle & Workflow: Patches for the new single-source-of-truth data model ensure reliable check-in/check-out, revision creation, and transition between lifecycle states directly from SolidWorks.
 
 Simulation & Analysis (SOLIDWORKS Simulation Premium):
 
-    Solver & Results Stability: Addresses convergence failures in the new accelerated linear static solver and corrects errors in composite material and additive manufacturing simulation results presentation.
+Solver & Results Stability: Addresses convergence failures in the new accelerated linear static solver and corrects errors in composite material and additive manufacturing simulation results presentation.
 
-    Generative Design: Fixes issues with design space definition and manufacturing constraint application in topology optimization studies.
+Generative Design: Fixes issues with design space definition and manufacturing constraint application in topology optimization studies.
 
 Manufacturing & Ecosystem Cohesion:
 
